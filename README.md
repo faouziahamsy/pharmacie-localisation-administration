@@ -4,8 +4,10 @@ This is the administrative portal for the Pharmacy Location Service, a web appli
 As an administrator, you can:
 
 Add, update, and delete pharmacy information
-View user search history and usage statistics
-Manage user accounts
+View pharmacy
+View Pharmacy Emergency
+Validate Pharmacy
+
 # Prerequisites
 Java 8 or above
 Maven
