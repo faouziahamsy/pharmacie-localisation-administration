@@ -31,6 +31,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 # demonstration youtube
 https://www.youtube.com/watch?v=LsDdkmW8qX4
 # Projet 
-voir l'image
+voir l'image : https://raw.githubusercontent.com/faouziahamsy/pharmacie-localisation-administration/main/Architecture%20Admin.jpeg
 # License
 This project is licensed under the HAB License - see the LICENSE file for details.
